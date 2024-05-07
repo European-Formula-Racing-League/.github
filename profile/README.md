@@ -35,8 +35,6 @@ Zde najdete informace o našich týmech a jezdci pro aktuální sezónu.
 - Jezdec 1: Jméno Příjmení ([@GitHubUživatelskéJméno](odkaz_na_profil))
 - Jezdec 2: Jméno Příjmení ([@GitHubUživatelskéJméno](odkaz_na_profil))
 
----
-
 Připojte se k naší komunitě a buďte součástí vzrušujícího světa formulového závodění! Pro více informací navštivte naše webové stránky.
 
 © 2024 European Formula Racing League. Všechna práva vyhrazena.
