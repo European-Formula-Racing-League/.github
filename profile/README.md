@@ -13,7 +13,7 @@ European Formula Racing League je prestižní automobilová liga, která se spec
 - Jméno Příjmení ([@GitHubUživatelskéJméno](odkaz_na_profil))
 - Jméno Příjmení ([@GitHubUživatelskéJméno](odkaz_na_profil))
 
-##### Kalendář závodů
+#### Kalendář závodů
 
 Zde najdete plánované termíny našich závodů pro aktuální sezónu:
 
@@ -22,7 +22,7 @@ Zde najdete plánované termíny našich závodů pro aktuální sezónu:
 - **Závod 3:** Datum - Místo
 - **Závod 4:** Datum - Místo
 
-##### Sociální sítě
+#### Sociální sítě
 
 Sledujte nás na našich sociálních sítích a buďte v obraze o našich novinkách, událostech a exkluzivním obsahu!
 
@@ -30,7 +30,7 @@ Sledujte nás na našich sociálních sítích a buďte v obraze o našich novin
 - [Instagram](odkaz)
 - [YouTube](odkaz)
 
-##### Sekce o týmu závodníků
+#### Sekce o týmu závodníků
 
 Zde najdete informace o našich týmech a jezdci pro aktuální sezónu.
 
