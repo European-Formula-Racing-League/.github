@@ -1,4 +1,4 @@
-<img src='./EFRL_logo.png' width='300'/>
+<img src='https://raw.githubusercontent.com/European-Formula-Racing-League/.github/main/profile/EFRL_logo.png' width='300'/>
 
 ### European Formula Racing League
 
@@ -39,6 +39,6 @@ Zde najdete informace o našich týmech a jezdci pro aktuální sezónu.
 
 Připojte se k naší komunitě a buďte součástí vzrušujícího světa formulového závodění! Pro více informací navštivte naše webové stránky.
 
-<img src='./EFRL_banner.png' width='100%'>
+<img src='https://raw.githubusercontent.com/European-Formula-Racing-League/.github/main/profile/EFRL_footer.png' width='100%'>
 
 © 2024 European Formula Racing League. Všechna práva vyhrazena.
