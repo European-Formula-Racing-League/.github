@@ -1,3 +1,5 @@
+![image](./EFRL_logo.png | width=1000)
+
 ### European Formula Racing League
 
 Vítejte v GitHub repozitáři European Formula Racing League! Tento repozitář slouží jako úložiště pro soukromé grafické projekty ze sezón naší ligy.
